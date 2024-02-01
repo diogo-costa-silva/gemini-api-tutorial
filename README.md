@@ -39,4 +39,4 @@ This tutorial was made by [Vishnu Sivan](https://codemaker2016.medium.com/) and 
 `streamlit run gemini-bot.py`
 
 #### Open the link which is displayed on the terminal to access the application:
-``
+`http://localhost:8501/`
